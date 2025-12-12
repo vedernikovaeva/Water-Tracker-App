@@ -37,9 +37,5 @@ lib/
 ```bash
 flutter pub get
 flutter run -d chrome
-macOS
-bash
-Копіювати код
-flutter config --enable-macos-desktop
-flutter run -d macos
+
 
